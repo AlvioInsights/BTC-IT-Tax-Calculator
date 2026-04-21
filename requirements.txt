@@ -1,0 +1,16 @@
+# Gestione Interfaccia UI
+streamlit>=1.30.0
+
+# Manipolazione Dati
+pandas>=2.0.0
+
+# Networking asincrono e sincrono
+requests>=2.31.0
+aiohttp>=3.9.0
+urllib3>=2.0.0
+
+# Finanza e Dati Storici
+yfinance>=0.2.0
+
+# Criptografia e derivazione wallet
+bip_utils>=2.9.0
