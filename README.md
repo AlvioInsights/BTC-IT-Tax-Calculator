@@ -60,7 +60,7 @@ L'installazione è progettata per completarsi in meno di 2 minuti. Apri il termi
    ```
 2. Si aprirà automaticamente una finestra nel browser all'indirizzo `http://localhost:8501`.
 3. Scorri il disclaimer rosso iniziale e spunta la casella *"Dichiaro di aver letto e compreso..."*.
-4. Inserisci un indirizzo Bitcoin reale per testarlo (es. l'indirizzo genesi di Satoshi: `1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa` o una tua chiave `zpub`).
+4. Inserisci un indirizzo Bitcoin reale per testarlo.
 5. Clicca su **"🔍 Avvia Analisi"** e attendi il completamento della scansione asincrona.
 6. Seleziona l'Anno d'Imposta dal menu a tendina (es. 2024, 2025 o 2026) e osserva i Quadri RW e RT calcolarsi all'istante con le aliquote corrette!
 
